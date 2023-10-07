@@ -1,0 +1,66 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&family=Roboto:wght@500&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --white: #999;
+}
+
+body::-webkit-scrollbar{
+  width: 6px;
+  background-color: #999;
+}
+body::-webkit-scrollbar-thumb{
+  background-color: rgb(30, 22, 22);
+  margin-inline: 20px;
+  border-radius: 200px;
+  behavior: inherit;
+}
+.bannerpopins {
+  font-weight: 500;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+.popins{
+  font-weight: 300;
+  font-family: "Poppins", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+.headerh1 {
+  font-weight: 700;
+}
+.headerp {
+  font-weight: 400;
+}
+.headerbt1 {
+  display: flex;
+  padding: 12px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 5px;
+  color: white;
+  background: linear-gradient(to left, #fff, #000);
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+}
+
+
+.headerbt2 {
+  display: flex;
+  padding: 12px 24px;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+  border-radius: 5px;
+  color: white;
+  background: linear-gradient(to left, #fff, #000);
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+}
