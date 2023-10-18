@@ -63,7 +63,7 @@ function TestimonialCards() {
           <div>
             <img
               className=" rounded-full"
-              src="https://s3-alpha-sig.figma.com/img/d546/0fde/5513fbd696b51c8002961df3af560c0c?Expires=1697414400&Signature=crhuAlKycB4VK5i4lQR~hfZs-uIjRJnZ8Sn~TVGWX8YHOPxbADUYDzynK6cA2vYkBKjMJ325Ao7OOjgkrSLxcDMM2CSBi4QPXW5tQXiDVsXkmHpM32v~-0E604LaC40gnwIlyse4WeyZARrc2HBJR7nfM9uOwJ8RNDwROz8mXxV5pCopbuXVXJAftxqQWAXMr8nIt2imJEqO5fNV2NS8g8pVHBnfPm5OBhxewSwEKIjKEvBe2YFJS1pdK1eG-~1KCw4w6wgUmARfCfMSWeal2pAvxaxiJ6xjfb1XZdJw~N09sVg-HVkenKlG0LwaOovjlFlfuU4Xh2GjJnW22Celgw__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
+              src="https://picsum.photos/40/40"
               alt="Error"
             />
           </div>
